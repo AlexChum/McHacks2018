@@ -29,9 +29,9 @@ Cisco Spark's platform directly. The SDK can be obtained [here](https://github.c
 
 ## Authors
  
-[Alexander Chum](https://github.com/AlexChum)
-[Christiana Chen](https://github.com/Christiaua)
-[Patrick Lai](https://github.com/PatLai)
+[Alexander Chum](https://github.com/AlexChum),
+[Christiana Chen](https://github.com/Christiaua),
+[Patrick Lai](https://github.com/PatLai),
 [Sophie Deng](https://github.com/)
 
 Also available under the list of [contributors](https://github.com/alexchum/McHacks2018/contributors).
@@ -42,6 +42,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-McHacks Mentor's
+McHacks Mentor's,
 Cisco Spark's Members
 * etc
