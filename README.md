@@ -15,11 +15,11 @@ Cisco Spark's platform directly. The SDK can be obtained [here](https://github.c
 ## Examples
 
 ### Cisco Spark Platform
-![alt text](https://www.github.com/AlexChum/McHacks2018/CiscoSparkBotExample.png)
+![alt text](https://www.raw.githubusercontent.com/AlexChum/McHacks2018/CiscoSparkBotExample.png)
 
 ### Android SDK
-![alt text](https://www.github.com/AlexChum/McHacks2018/StartPage.png)
-![alt text](https://www.github.com/AlexChum/McHacks2018/ChatPage.png)
+![alt text](https://www.raw.githubusercontent.com/AlexChum/McHacks2018/StartPage.png)
+![alt text](https://www.raw.githubusercontent.com/AlexChum/McHacks2018/ChatPage.png)
 
 ## Built With
 
