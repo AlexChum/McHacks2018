@@ -29,10 +29,10 @@ Cisco Spark's platform directly. The SDK can be obtained [here](https://github.c
 
 ## Authors
  
-Alexander Chum  -- https://github.com/AlexChum 
-Christiana Chen	-- https://github.com/Christiaua 
-Patrick Lai 	-- https://github.com/PatLai 
-Sophie Deng 	-- https://github.com/ 
+[Alexander Chum](https://github.com/AlexChum)
+[Christiana Chen](https://github.com/Christiaua)
+[Patrick Lai](https://github.com/PatLai)
+[Sophie Deng](https://github.com/)
 
 Also available under the list of [contributors](https://github.com/alexchum/McHacks2018/contributors).
 
